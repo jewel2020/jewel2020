@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jewel2020
+- 👋 Hi, I’m  Md Jewel Rana
 - 👀 I’m interested in Cybersecurity World Safeguard.
 - 🌱 I’m currently learning Cybersecurity, SOC Analysis, Forensics Analysis and Penetration Testing.
 - 💞️ I’m looking to collaborate on a SOC analyst-related position in a reputed company.
